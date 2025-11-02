@@ -44,7 +44,7 @@ const Screen: React.FC = () => {
           width: '1024px', 
           height: '768px' 
         }}
-        title="screen-content"
+        title="screen-content poner camcbio para deplo"
       />
       <mesh position={[0.4, 0.8, -0.3]} rotation={[-0.2, 0, 0]}>
         <planeGeometry args={[0.8, 0.5]} />
